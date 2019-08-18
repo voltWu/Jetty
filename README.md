@@ -3,8 +3,11 @@ Eclipse Jetty provides a Web server and javax.servlet container, plus support fo
 
 # Environment
 Jetty version: 0.0
+
 Eclipse version: Luna Service Release 2 (4.4.2)
+
 OS platform: win7
+
 Java version: Java1.8
 
 # Demonstration
