@@ -2,7 +2,7 @@
 Eclipse Jetty provides a Web server and javax.servlet container, plus support for HTTP/2, WebSocket, OSGi, JMX, JNDI, JAAS and many other integrations. 
 
 # Environment
-Jetty version: 0.0
+Jetty version: 8.1.8.v20121106
 
 Eclipse version: Luna Service Release 2 (4.4.2)
 
