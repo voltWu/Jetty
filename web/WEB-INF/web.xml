@@ -4,8 +4,7 @@
 	xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_3_0.xsd">
 	<servlet>
 		<servlet-name>ApiDemo</servlet-name>
-		<servlet-class>com.cd468.server.ApiDemo
-		</servlet-class>
+		<servlet-class>com.example.server.ApiDemo</servlet-class>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>ApiDemo</servlet-name>

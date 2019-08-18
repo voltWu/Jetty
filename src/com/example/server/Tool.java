@@ -1,4 +1,4 @@
-package com.cd468.server;
+package com.example.server;
 
 import java.io.IOException;
 import java.util.Enumeration;
