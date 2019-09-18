@@ -14,11 +14,6 @@ Java version: Java1.8
 
 ~~~~
 \---Jetty-HTTP-example
-    |   a.png
-    |   b.png
-    |   c.png
-    |   README.md
-    |
     +---bin
     |   \---com
     |       \---example
